@@ -1,1 +1,1 @@
-repository baru di pc local
+Belajar Git ignore
